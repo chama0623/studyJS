@@ -107,5 +107,3 @@ idは`#ID名`, classは`.class名`で指定する.
     color: green;
 }
 ```
-
-#### 基本構文
